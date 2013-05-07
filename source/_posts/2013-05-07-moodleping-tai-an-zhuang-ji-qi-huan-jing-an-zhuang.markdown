@@ -39,7 +39,7 @@ categories: moodle 网络课程管理系统
 	>>> 目前最新版本是Moodle2.5beta版,但是建议下载Moode2.4.3稳定版本，下载链接是[Moodle2.4.3下载](http://download.moodle.org/download.php/moodle/moodle-latest.tgz)
 >>2. 将解压的Moodle文件夹放到web服务器根目录
 	>>> **注**：如果您是按照过程1安装的xampp软件的话，web服务器根目录是在C:xampp/htdocs/文件夹下，所以把moodle文件夹拷贝到该目录即可。
-	>>>![](../../../public/blog/images/moodle_url.jpg)
+	>>>![](https://raw.github.com/yanzheli/yanzheli.github.com/source/source/images/moodle_url.jpg)
 >>3. 浏览器中打开[http://localhost/moodle](http://localhost/moodle)
 	>>>
 	>>>
