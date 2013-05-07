@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 网络课程管理系统 | Azhe的博客]]></title>
+  <link href="http://yanzheli.github.io/blog/categories/wang-luo-ke-cheng-guan-li-xi-tong/atom.xml" rel="self"/>
+  <link href="http://yanzheli.github.io/"/>
+  <updated>2013-05-08T01:01:54+08:00</updated>
+  <id>http://yanzheli.github.io/</id>
+  <author>
+    <name><![CDATA[Azhe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[moodle平台安装及其环境安装]]></title>
+    <link href="http://yanzheli.github.io/blog/2013/05/07/moodleping-tai-an-zhuang-ji-qi-huan-jing-an-zhuang/"/>
+    <updated>2013-05-07T21:44:00+08:00</updated>
+    <id>http://yanzheli.github.io/blog/2013/05/07/moodleping-tai-an-zhuang-ji-qi-huan-jing-an-zhuang</id>
+    <content type="html"><![CDATA[<blockquote><h2>概述</h2>
+
+<p>Moodle是模块化面向对象的动态学习环境，由澳大利亚教师Martin Dougiamas基于建构主义教育理论而开发的课程管理系统，是一个免费的开放源代码的软件，目前在各国已广泛使用。<br />
+由于Moodle是用php进行开发的web软件，所以安装Moodle需要相应的web服务器、数据库和php运行程序。针对于没有使用过php的人来说，安装moodle平台还是有点小麻烦的，由此在这里我简要介绍一下Moodle平台的安装过程。</p>
+
+<h2>安装过程</h2></blockquote>
+
+<ol>
+<li><h3>xampp安装</h3>
+
+<blockquote><p><strong>注</strong>：您的电脑已经安装apache+mysql+php的用户可以不用浏览改过程。</p>
+
+<p><strong>声明</strong>：xampp是apache+mysql+php的集成安装包。</p>
+
+<h4>安装步骤</h4>
+
+<blockquote><ul>
+<li>下载xampp软件
+
+<blockquote><p>可以到<a href="http://www.apachefriends.org/zh_cn/xampp.html">apachefriends网站</a>上查找相应的软件。(大部分人都使用windows系统，所以该文章选择适用于windows的xampp进行讲解)</p></blockquote></li>
+<li>安装过程
+
+<blockquote><p>方法 A：使用安装包进行安装
+<img src="http://www.apachefriends.org/images/1729.jpg" alt="" /> <br /></p>
+
+<p>安装过程结束后，您会在 开始/程序/XAMPP 菜单下找到 XAMPP。您可以使用 XAMPP 控制面板来启动/停止所有服务或安装/卸载所有服务。<br />
+<img src="http://www.apachefriends.org/images/1734.jpg" alt="" /> <br/>
+<strong>注</strong>：详细步骤参考<a href="http://www.apachefriends.org/zh_cn/xampp-windows.html#1735">XAMPP for Windows</a></p></blockquote></li>
+</ul>
+</blockquote></blockquote></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
