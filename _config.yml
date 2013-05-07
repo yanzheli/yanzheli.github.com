@@ -96,3 +96,12 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# sina weibo
+# Please refer to http://weibo.com/tool/weiboshow to get your uid and verifier.
+weibo_uid: 2175085091
+weibo_verifier: 1f582291
+weibo_fansline: 2
+weibo_show: true
+weibo_pic: true
+weibo_skin: 2
