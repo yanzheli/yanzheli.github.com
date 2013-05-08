@@ -42,4 +42,17 @@ categories: moodle 网络课程管理系统
 	>>>![](https://raw.github.com/yanzheli/yanzheli.github.com/source/out_images/moodle_url.jpg)
 >>3. 浏览器中打开[http://localhost/moodle](http://localhost/moodle)
 	>>> 如果您是第一次打开该页面则会出现安装页面，选择中文进行安装（zh_cn）.<br />
-	>>>![]()
+	>>> ![](https://raw.github.com/yanzheli/yanzheli.github.com/source/out_images/moodle/install_01.jpg)<br />
+	>>> 确认路径，在这里基本没什么改动默认就好。<br />
+	>>> ![](https://raw.github.com/yanzheli/yanzheli.github.com/source/out_images/moodle/install_02.jpg) <br />
+	>>> 安装数据库（默认选择mosql数据库，不用改动）<br />
+	>>> ![](https://raw.github.com/yanzheli/yanzheli.github.com/source/out_images/moodle/install_03.jpg) <br />
+	>>> ok! 别着急很快就成功了，下面是数据库设置<br />
+	>>> ![](https://raw.github.com/yanzheli/yanzheli.github.com/source/out_images/moodle/install_04.jpg) <br />
+	>>> **注：**如果您是按照过程1进行安装的话，默认是没有设置数据库密码的，所以数据库密码不用填写。
+	>>> 接下来是版权声明，点击继续就好，在这里就不截图了（呵呵，其实截图很麻烦的）<br />
+	>>> 检测服务器（如果不是必选的话，可以忽略）<br />
+	>>> ![](https://raw.github.com/yanzheli/yanzheli.github.com/source/out_images/moodle/install_05.jpg) <br />
+	>>> 能够坚持到这不的同志，恭喜你！！！接下来的事情就是等待，因为Moodle很大，需要安装的数据库很多。所以请耐心等个3分钟左右。<br />
+	>>> ![](https://raw.github.com/yanzheli/yanzheli.github.com/source/out_images/moodle/install_06.jpg) <br />
+	>>> 到现在位置您的Moodle平台已经搭建好了，剩下的工作就是一些有关Moodle站点的相关配置，由于提示已经很明确了，所以不在这里展开。
