@@ -3,7 +3,7 @@ layout: post
 title: "moodle平台安装及其环境安装"
 date: 2013-05-07 21:44
 comments: true
-categories: lcms
+categories: e-learning
 ---
 ##概述
 >
@@ -28,7 +28,7 @@ categories: lcms
 	>>> ![](http://www.apachefriends.org/images/1729.jpg) <br /> 
 	>>> 
 	>>> 安装过程结束后，您会在 开始/程序/XAMPP 菜单下找到 XAMPP。您可以使用 XAMPP 控制面板来启动/停止所有服务或安装/卸载所有服务。<br />
-	>>> ![}(http://www.apachefriends.org/images/1734.jpg) <br/>
+	>>> ![](http://www.apachefriends.org/images/1734.jpg) <br/>
 	>>> **注**：详细步骤参考[XAMPP for Windows](http://www.apachefriends.org/zh_cn/xampp-windows.html#1735)
 
 2. ###Moodle安装
